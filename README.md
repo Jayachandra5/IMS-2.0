@@ -7,3 +7,4 @@ New Data Visualization Modules Such as pie charts for stock sales, profit on eac
 Line chart for revenue 🆚 profit,
 Bar graph for sales and profit monetization of each stock,
 Date Picker in every date chooser text field.
+
